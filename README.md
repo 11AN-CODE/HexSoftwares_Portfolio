@@ -20,3 +20,9 @@ This portfolio is designed to showcase my web development projects, skills, and 
 * **HTML5:** For the structural foundation and semantic layout.
 * **CSS3:** For styling, CSS Grid/Flexbox layouts, hover effects, and 3D animations.
 * **Vanilla JavaScript:** For DOM manipulation .
+
+## 🏆 Acknowledgments
+A special thank you to the team at **HexSoftwares** for the opportunity to build this project and grow my skills as a frontend developer during my internship!
+
+---
+*Designed & Built by Anshika Shukla*
