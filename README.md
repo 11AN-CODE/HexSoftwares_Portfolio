@@ -12,5 +12,11 @@ This portfolio is designed to showcase my web development projects, skills, and 
 ## ✨ Key Features
 * **Modern Dark Theme UI:** Sleek, high-contrast design that is easy on the eyes.
 * **Fully Responsive:** Adapts perfectly to mobile phones, tablets, and desktop screens.
-* **Interactive Elements:** Features a 3D-flipping profile card and smooth scrolling navigation.
 * **Project Showcase:** Dedicated grid layout to display technical projects and links.
+
+
+
+## 🛠️ Technologies Used
+* **HTML5:** For the structural foundation and semantic layout.
+* **CSS3:** For styling, CSS Grid/Flexbox layouts, hover effects, and 3D animations.
+* **Vanilla JavaScript:** For DOM manipulation .
